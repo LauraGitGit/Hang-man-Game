@@ -20,8 +20,8 @@ A simple Hangman game I built in Python using only the console.
    For example, if you extracted it to your Desktop:
 
    **Mac:**
-   bash
-   cd ~/Desktop/HangmanGame
-   python3 HangmanGame.py
+   -bash
+   -cd ~/Desktop/HangmanGame
+   -python3 HangmanGame.py
    
 Enjoy!
